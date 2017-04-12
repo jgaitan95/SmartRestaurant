@@ -1,0 +1,16 @@
+Name: Mac n' Cheese
+Description: Home-made delicious mac n' cheese
+Picture: /pictures/2-mac-cheese.jpg
+Price: 6.99
+Name: Buffalo Wings
+Description: Buffalo Wings w/your style of sauce(s)
+Picture: /pictures/wings.jpg
+Price: 7.99
+Name: Burger and Fries
+Description: Burger cooked to perfection w/cajun fries
+Picture: /pictures/fries_20and_20burger_1_.jpg
+Price: 8.99
+Name: Mexican Tacos
+Description: 3 Tacos w/your choice of meat inside
+Picture: /pictures/tacos.jpg
+Price: 9.99
